@@ -1,0 +1,29 @@
+/*Home Page ==========================*/
+.img1 {
+  max-width: 80%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+}
+
+.img2 {
+  max-width: 80%;
+  height: auto
+}
+
+.img3 {
+  max-width: 80%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+}
+
+/*Product Info =============================*/
+.compatibility-section {
+  padding: 20px 0;
+  background-color: #f9f9f9;
+}
+
+.cta-section {
+  padding: 40px;
+}
